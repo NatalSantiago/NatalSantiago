@@ -1,8 +1,11 @@
-### Olá! Eu sou o Natal Santiago
+## Olá! Eu sou o Natal Santiago
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Desenvolvedor desde o ano de 1993
+### Um pouco sobre mim.
+
+Desenvolvedor desde o ano de 1993, sou autodidata e apaixonado por programação. Comecei a programar utilizando Clipper/Dbase III e evoluí para o Delphi, trabalhando com ele desde a versão 3 até a atual. Mais recentemente, tenho me dedicado ao desenvolvimento web utilizando Delphi com Unigui, além de estar trabalhando com Python, Django, HTML5, JavaScript e CSS3.
+
+Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprimorar minhas habilidades e oferecer soluções cada vez mais eficientes para meus clientes. Acredito que a constante evolução é essencial para qualquer profissional de tecnologia, e é por isso que estou sempre buscando me atualizar e aprender coisas novas.
 
 <div align="center">
   <a href="https://github.com/NatalSantiago">
@@ -39,8 +42,11 @@
 ##
 
 <div> 
-  <a href = "+55 63 9 9225 9154"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-  <a href = "mailto:natal.santiago.filha@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/natal-santiago-986680257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+## Contato
+
+  - Whatsapp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green)](https://api.whatsapp.com/send?phone=5563992259154)
+- E-mail: [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:natal.santiago.filha@gmail.com)
+- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/natal-santiago-986680257/)
+   
 </div>
