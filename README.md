@@ -28,7 +28,7 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-PostGreSql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align="center" alt="NatalSantiago-VsCode" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
 <img align="center" alt="NatalSantiago-Delphi" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/LogoDelphi.png" />
-
+<img align="center" alt="NatalSantiago-railway" height="40" width="40" src="https://railway.app/brand/logo-light.png" />  
   </div>
   
 <div> 
