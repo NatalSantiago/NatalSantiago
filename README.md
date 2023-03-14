@@ -16,20 +16,27 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 ## Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="NatalSantiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NatalSantiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="NatalSantiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="NatalSantiago-Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="center" alt="NatalSantiago-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="NatalSantiago-AmazonWebServices" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<img align="center" alt="NatalSantiago-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="NatalSantiago-Django" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" />
-<img align="center" alt="NatalSantiago-MySql" height="70" width="70" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />
-<img align="center" alt="NatalSantiago-PostGreSql" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="center" alt="NatalSantiago-VsCode" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
-<img align="center" alt="NatalSantiago-Delphi" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/LogoDelphi.png" />
-<img align="center" alt="NatalSantiago-railway" height="40" width="40" src="https://railway.app/brand/logo-light.png" />  
-  </div>
+
+<img align="center" alt="NatalSantiago-HTML" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/HTML.png"/>  
+<img align="center" alt="NatalSantiago-JS" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/JavaScript.png"/>  
+<img align="center" alt="NatalSantiago-CSS" height="35" width="30" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/CSS.png"/>  
+<img align="center" alt="NatalSantiago-BootStrap" height="60" width="55" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Bootstrap.png"/>  
+<img align="center" alt="NatalSantiago-JQuery" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/jQuery.png"/>  
+<img align="center" alt="NatalSantiago-GitHub" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/GitHub.png"/>  
+<img align="center" alt="NatalSantiago-AWS" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/AWS.png"/>  
+<img align="center" alt="NatalSantiago-GoogleCloud" height="80" width="80" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/GoogleCloud.png"/>  
+<img align="center" alt="NatalSantiago-MAzure" height="80" width="80" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/MicrosoftAzure.png"/>  
+<img align="center" alt="NatalSantiago-Python" height="55" width="55" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Python.png"/>  
+<img align="center" alt="NatalSantiago-Django" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Django.png"/>  
+<img align="center" alt="NatalSantiago-SQLite" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/sQlite.png"/>  
+<img align="center" alt="NatalSantiago-MySQL" height="50" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/MySQL.png"/>  
+<img align="center" alt="NatalSantiago-PostgreSQL" height="50" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/PostgreSQL.png"/>  
+<img align="center" alt="NatalSantiago-VisucalStudoCode" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/VisualStudioCode.png"/>  
+<img align="center" alt="NatalSantiago-DelphiRadStudio" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/DelphiRADStudio.png"/> 
+<img align="center" alt="NatalSantiago-IBExpert" height="40" width="40" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/IBExpert.png"/>  
+<img align="center" alt="NatalSantiago-railway" height="40" width="40" src="https://railway.app/brand/logo-light.png"/>  
+
+</div>
   
 <div> 
 
