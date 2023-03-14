@@ -50,8 +50,8 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 
 <div> 
 
-## Exmplo(s) de desenvolido(s)
+# Projeto(s) desenvolvido(s) por mim:
 
-- HospedaMais: (https://natalsantiago.pythonanywhere.com/)
+HospedaMais: ( https://natalsantiago.pythonanywhere.com/ )
 
 </div>
