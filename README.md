@@ -54,4 +54,7 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 
 HospedaMais: ( https://natalsantiago.pythonanywhere.com/ )
 
+usuário: maria.celia
+senha..: maria251276@
+
 </div>
