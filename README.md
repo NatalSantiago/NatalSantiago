@@ -38,6 +38,7 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-docker" height="40" width="40" src="https://i.postimg.cc/zBWgwBGZ/homepage-docker-logo.png"/>    
 <img align="center" alt="NatalSantiago-n8n+appsmith" height="40" width="40" src="https://i.postimg.cc/k49Ttk7c/1-Vwzc-Q6-PI-3pe-Zd-RVfs4j9w.png"/>    
 <img align="center" alt="NatalSantiago-ngrok" height="40" width="40" src="https://i.postimg.cc/9MvCBTBm/ngrok.png"/>    
+<img align="center" alt="NatalSantiago-Ampps" height="40" width="40" src="https://i.postimg.cc/yYCZTpnZ/twitter-ampps-400x400.jpg"/>    
 
 
 </div>
