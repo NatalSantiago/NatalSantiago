@@ -27,7 +27,10 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-GoogleCloud" height="80" width="80" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/GoogleCloud.png"/>  
 <img align="center" alt="NatalSantiago-MAzure" height="80" width="80" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/MicrosoftAzure.png"/>  
 <img align="center" alt="NatalSantiago-Python" height="55" width="55" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Python.png"/>  
-<img align="center" alt="NatalSantiago-Django" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Django.png"/>  
+<img align="center" alt="NatalSantiago-Django" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Django.png"/> 
+<img align="center" alt="NatalSantiago-Flask" height="60" width="60" src="https://i.postimg.cc/5tGPZcZL/flask.jpg"/> 
+
+
 <img align="center" alt="NatalSantiago-SQLite" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/sQlite.png"/>  
 <img align="center" alt="NatalSantiago-MySQL" height="50" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/MySQL.png"/>  
 <img align="center" alt="NatalSantiago-PostgreSQL" height="50" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/PostgreSQL.png"/>  
