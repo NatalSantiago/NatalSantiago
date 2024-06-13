@@ -3,7 +3,7 @@
 
 ### Um pouco sobre mim.
 
-Desenvolvedor desde o ano de 1993, sou autodidata e apaixonado por programação. Comecei a programar utilizando Clipper/Dbase III e evoluí para o Delphi, trabalhando com ele desde a versão 3 até a atual. Mais recentemente, tenho me dedicado ao desenvolvimento web utilizando Delphi com Unigui, além de estar trabalhando com Python, Django, HTML5, JavaScript e CSS3.
+Desenvolvedor desde o ano de 1993, sou autodidata e apaixonado por programação. Comecei a programar utilizando Clipper/Dbase III e evoluí para o Delphi, trabalhando com ele desde a versão 3 até a atual. Mais recentemente, tenho me dedicado ao desenvolvimento web utilizando Delphi com Unigui, além de estar trabalhando com Python, Django, HTML5, JavaScript e CSS3, PHP. E atualmente estudando PHP e TypeScript.
 
 Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprimorar minhas habilidades e oferecer soluções cada vez mais eficientes para meus clientes. Acredito que a constante evolução é essencial para qualquer profissional de tecnologia, e é por isso que estou sempre buscando me atualizar e aprender coisas novas.
 
@@ -42,6 +42,8 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-n8n+appsmith" height="40" width="40" src="https://i.postimg.cc/k49Ttk7c/1-Vwzc-Q6-PI-3pe-Zd-RVfs4j9w.png"/>    
 <img align="center" alt="NatalSantiago-ngrok" height="40" width="40" src="https://i.postimg.cc/9MvCBTBm/ngrok.png"/>    
 <img align="center" alt="NatalSantiago-Ampps" height="40" width="40" src="https://i.postimg.cc/yYCZTpnZ/twitter-ampps-400x400.jpg"/>    
+<img align="center" alt="NatalSantiago-PHP" height="40" width="40" src="https://i.postimg.cc/d0rPs4VZ/PHP-Logo.jpg"/>    
+<img align="center" alt="NatalSantiago-TypeScript" height="40" width="40" src="https://i.postimg.cc/P5v0y2ZV/TS-Logo.png"/>    
 
 
 </div>
