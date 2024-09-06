@@ -60,23 +60,28 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 
 <div> 
 
-# Projeto(s) desenvolvido(s) por mim:
+## Projeto(s) desenvolvido(s) por mim:
 
-HospedaMais: ( https://natalsantiago.pythonanywhere.com/ )
+### ApostaMais: ( https://apostamais.pythonanywhere.com/ )
+<p>
+Exemplo de um sistema de apostas desenvolvido em Python/Django totalmente responsivo... ( OBS: Somente o inicio do projeto. mostrando apenas a responsividade possivel. pois muitos dizem que no Django não fica uma responsividade legal )
+</p>
+
+### HospedaMais: ( https://natalsantiago.pythonanywhere.com/ )
 <p><b>
 usuário: maria.celia
 <br>
 senha..: maria123456789
 </p>
 
-SaudeMais: ( https://saudemais.pythonanywhere.com/ )
+### SaudeMais: ( https://saudemais.pythonanywhere.com/ )
 <p><b>
 usuário: usuario.demo
 <br>
 senha..: testeonline
 </p>
 
-FiltraMais: ( https://filtramais.pythonanywhere.com/ )
+### FiltraMais: ( https://filtramais.pythonanywhere.com/ )
 <p><b>
 usuário: usuario.teste
 <br>
