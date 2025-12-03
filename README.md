@@ -3,7 +3,7 @@
 
 ### Um pouco sobre mim.
 
-Desenvolvedor desde o ano de 1993, sou autodidata e apaixonado por programação. Comecei a programar utilizando Clipper/Dbase III e evoluí para o Delphi, trabalhando com ele desde a versão 3 até a atual. Mais recentemente, tenho me dedicado ao desenvolvimento web utilizando Delphi com Unigui, além de estar trabalhando com Python, Django, HTML5, JavaScript e CSS3, PHP, Desenvolvedor de Expert Advisors (EAs). E atualmente estudando PHP e TypeScript.
+Desenvolvedor desde o ano de 1993, sou autodidata e apaixonado por programação. Comecei a programar utilizando Clipper/Dbase III e evoluí para o Delphi, trabalhando com ele desde a versão 3 até a atual. Mais recentemente, tenho me dedicado ao desenvolvimento web utilizando Delphi com Unigui, além de estar trabalhando com Python, Django, HTML5, JavaScript e CSS3, PHP, Desenvolvimento de Expert Advisors (EAs) Para MetaTrader 4/5. E atualmente estudando PHP e TypeScript.
 
 Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprimorar minhas habilidades e oferecer soluções cada vez mais eficientes para meus clientes. Acredito que a constante evolução é essencial para qualquer profissional de tecnologia, e é por isso que estou sempre buscando me atualizar e aprender coisas novas.
 
