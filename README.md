@@ -29,6 +29,7 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-Python" height="55" width="55" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Python.png"/>  
 <img align="center" alt="NatalSantiago-Django" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Django.png"/> 
 <img align="center" alt="NatalSantiago-Flask" height="60" width="60" src="https://i.postimg.cc/5tGPZcZL/flask.jpg"/> 
+<img align="center" alt="NatalSantiago-MQL5" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/1730672674076.png"/> 
 
 
 <img align="center" alt="NatalSantiago-SQLite" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/sQlite.png"/>  
