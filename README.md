@@ -7,12 +7,6 @@ Desenvolvedor desde o ano de 1993, sou autodidata e apaixonado por programação
 
 Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprimorar minhas habilidades e oferecer soluções cada vez mais eficientes para meus clientes. Acredito que a constante evolução é essencial para qualquer profissional de tecnologia, e é por isso que estou sempre buscando me atualizar e aprender coisas novas.
 
-<div align="center">
-  <a href="https://github.com/NatalSantiago">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NatalSantiago&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidluiz91&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
 ## Tecnologias utilizadas
 
 <div style="display: inline_block"><br>
