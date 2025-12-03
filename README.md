@@ -29,9 +29,6 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-Python" height="55" width="55" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Python.png"/>  
 <img align="center" alt="NatalSantiago-Django" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/Django.png"/> 
 <img align="center" alt="NatalSantiago-Flask" height="60" width="60" src="https://i.postimg.cc/5tGPZcZL/flask.jpg"/> 
-<img align="center" alt="NatalSantiago-MQL5" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/1730672674076.png"/> 
-
-
 <img align="center" alt="NatalSantiago-SQLite" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/sQlite.png"/>  
 <img align="center" alt="NatalSantiago-MySQL" height="50" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/MySQL.png"/>  
 <img align="center" alt="NatalSantiago-PostgreSQL" height="50" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/PostgreSQL.png"/>  
@@ -45,7 +42,7 @@ Sempre busco me manter atualizado e aprendendo novas tecnologias, a fim de aprim
 <img align="center" alt="NatalSantiago-Ampps" height="40" width="40" src="https://i.postimg.cc/yYCZTpnZ/twitter-ampps-400x400.jpg"/>    
 <img align="center" alt="NatalSantiago-PHP" height="40" width="40" src="https://i.postimg.cc/d0rPs4VZ/PHP-Logo.jpg"/>    
 <img align="center" alt="NatalSantiago-TypeScript" height="40" width="40" src="https://i.postimg.cc/P5v0y2ZV/TS-Logo.png"/>    
-
+<img align="center" alt="NatalSantiago-MQL5" height="60" width="60" src="https://github.com/NatalSantiago/ImagensProjetos/blob/master/1730672674076.png"/> 
 
 </div>
   
